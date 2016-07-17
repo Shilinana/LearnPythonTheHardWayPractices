@@ -9,3 +9,4 @@ The practices of Learn Python the hard way :two_hearts:
 ### [Exercise6](ex6.py)
 ### [Exercise7](ex7.py)
 ### [Exercise8](ex8.py)
+### [Exercise9](ex9.py)
