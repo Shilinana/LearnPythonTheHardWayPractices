@@ -13,4 +13,3 @@ The practices of Learn Python the hard way :two_hearts:
 | 8 | [exercise8](ex8.py) |
 | 9 | [exercise9](ex9.py) |
 | 10 | [exercise10](ex10.py)|
-| 10.2 | [exercise10.2](ex10_2.py)|
